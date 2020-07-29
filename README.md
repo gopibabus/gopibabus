@@ -1,4 +1,4 @@
-<img align="right" src="undraw_lightbulb_moment.png" alt="undraw lightbulb moment" width=300px height=350px/>
+<img align="right" src="people_flat_behance.png" alt="people flat from behance" width=350px height=465px/>
 
 ### Hi, I'm Gopi 👋
 
