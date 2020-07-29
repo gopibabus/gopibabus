@@ -15,8 +15,8 @@ I’m a web developer. I love building applications using PHP and JavaScript Sta
 
 ### Certifications
 
+<img width="80" height="80" src="https://github.com/gopibabus/gopibabus/blob/master/seal-csm.png" alt="certified Scrum Master"/>
 <img src="https://github.com/gopibabus/gopibabus/blob/master/zce-2017-php-80x80.gif" alt="php 7 certified PHP Engineer"/>
-<img align="right" width="80" height="80" src="https://github.com/gopibabus/gopibabus/blob/master/seal-csm.png" alt="certified Scrum Master"/>
 
 ---
 
