@@ -1,4 +1,4 @@
-<img align="right" src="people_flat_behance.png" alt="people flat from behance" width=350px height=465px/>
+<img align="right" src="https://github.com/gopibabus/gopibabus/blob/master/people_flat_behance.png" alt="people flat from behance" width=350px height=465px/>
 
 ### Hi, I'm Gopi 👋
 
