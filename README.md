@@ -13,5 +13,5 @@ I’m a web developer. I love building applications using PHP and JavaScript Sta
 
 ---
 
-<img src="https://github-readme-stats.gopibabus.vercel.app/api/top-langs/?username=gopibabus&layout=compact&theme=dracula"/>
-<img src="https://github-readme-stats.gopibabus.vercel.app/api?username=gopibabus&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.gopibabus.vercel.app/api/top-langs/?username=gopibabus&layout=compact"/>
+<img src="https://github-readme-stats.gopibabus.vercel.app/api?username=gopibabus&show_icons=true"/>
