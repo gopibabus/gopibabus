@@ -10,3 +10,8 @@ I’m a web developer. I love building applications using PHP and JavaScript Sta
 - 📫  How to reach me: s.gopibabu@gmail.com or Twitter [@gopibabus](twitter.com/gopibabus)
 - 😄  Pronouns: he/him
 - ⚡  Fun fact: I love mentoring students who are interested to enter into web development.
+
+---
+
+<img src="https://github-readme-stats.gopibabus.vercel.app/api/top-langs/?username=gopibabus&layout=compact&theme=dracula"/>
+<img src="https://github-readme-stats.gopibabus.vercel.app/api?username=gopibabus&show_icons=true&theme=dracula"/>
