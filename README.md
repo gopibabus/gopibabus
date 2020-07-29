@@ -9,15 +9,13 @@ I’m a web developer. I love building applications using PHP and JavaScript Sta
 - 💬  Ask me about PHP, Node.js & JavaScript.
 - 📫  How to reach me: s.gopibabu@gmail.com or Twitter [@gopibabus](twitter.com/gopibabus)
 - 😄  Pronouns: he/him
-- ⚡  Fun fact: I love mentoring students who are interested to enter into web development.
+- ⚡  Fun fact: I love mentoring students who are interested to become a web developer.
 
 ---
 
 ### Certifications
 
 <img src="https://github.com/gopibabus/gopibabus/blob/master/zce-2017-php-80x80.gif" alt="php 7 certified PHP Engineer"/>
-
-<br>
 
 ---
 
