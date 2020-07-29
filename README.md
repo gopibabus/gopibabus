@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/gopibabus/gopibabus/blob/master/undraw_lightbulb_moment.png" alt="undraw lightbulb moment" width=350px height=465px/>
+<img align="right" src="https://github.com/gopibabus/gopibabus/blob/master/undraw_lightbulb_moment.png" alt="undraw lightbulb moment" width=300px height=350px/>
 
 ### Hi, I'm Gopi 👋
 
