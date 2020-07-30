@@ -18,8 +18,8 @@ I’m a web developer. I love building applications using PHP and JavaScript Sta
 <a target="_blank" href="https://www.zend-zce.com/en/yellow-pages/ZEND031328">
 <img src="https://github.com/gopibabus/gopibabus/blob/master/zce-2017-php-80x80.gif" alt="php 7 certified PHP Engineer"/>
 </a>
-<a href="#">
-<img width="90" height="90" src="https://github.com/gopibabus/gopibabus/blob/master/seal-csm.png" alt="certified Scrum Master"/>
+<a href="https://www.scrumalliance.org/community/profile/gsrungavar">
+<img target="_blank" width="90" height="90" src="https://github.com/gopibabus/gopibabus/blob/master/seal-csm.png" alt="certified Scrum Master"/>
 </a>
 
 ---
